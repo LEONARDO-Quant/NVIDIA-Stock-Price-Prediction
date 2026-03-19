@@ -1,5 +1,5 @@
 # 📈 NVIDIA Stock Return Prediction: A Multi-Model ML Approach
-> [cite_start]**Advanced Machine Learning capstone project developed as part of the Master’s in Data Science (SDA) at Université Paris 1 Panthéon-Sorbonne.** [cite: 5, 6, 7]
+> **Advanced Machine Learning capstone project developed for the "Sorbonne Data Analytics" Professional Graduate Degree at Université Paris 1 Panthéon-Sorbonne.**
 
 ![NVIDIA](https://img.shields.io/badge/Focus-NVIDIA_Returns-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
