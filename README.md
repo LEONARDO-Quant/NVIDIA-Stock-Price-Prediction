@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="docs/banner" alt="Bannière du projet" width="1000" height="250"/>
+</p> 
+
+
 # 📈 NVIDIA Stock Return Prediction: A Multi-Model ML Approach
 > **Advanced Machine Learning capstone project developed for the "Sorbonne Data Analytics" Professional Graduate Degree at Université Paris 1 Panthéon-Sorbonne.**
 
