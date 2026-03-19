@@ -41,7 +41,7 @@ We compared three distinct architectures to find the optimal predictive balance:
 
 | Model | Typology | Key Performance | Conclusion |
 | :--- | :--- | :--- | :--- |
-| **🏆 XGBoost** | **Boosted Trees** | **MAE: 0.013 | R²: 0.65** | **Winner:** Best at capturing non-linear market relations. |
+| **🏆 XGBoost** | **Boosted Trees** | MAE: 0.013 | R²: 0.65 | **Winner:** Best at capturing non-linear market relations. |
 | **ARIMAX** | **Econometrics** | MAE: 0.014 | R²: 0.62 | Solid baseline, but struggles with volatility peaks. |
 | **LSTM** | **Deep Learning** | MAE: 0.015 | R²: 0.58 | Sub-optimal; requires larger data volume for convergence. |
 
